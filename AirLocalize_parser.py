@@ -8,7 +8,8 @@
 
 # Written by Max Haase on 2018/01/18 (maxabhaase@gmail.com)
 # updated 2018/01/30: added the function intensities() and only write data from sorted .loc files (C3),
-# which is a shitty fix for selected only those files.
+# which is a shitty fix for selected only those files. Also I want to out put the intensities from each cell into one
+# file, but currently it all goes into one file per cell.
 
 
 ########################################################################################################################
