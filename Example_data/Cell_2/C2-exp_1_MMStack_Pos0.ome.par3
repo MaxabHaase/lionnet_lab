@@ -1,0 +1,36 @@
+sigma_xy:    1.3608 
+sigma_z:    0.96077 
+dx:    64 
+dy:    64 
+dz:    200 
+cutsize:    3 
+tol:    0.01 
+thickness:    1 
+thresh.level:    2000 
+thresh.units:    absolute 
+thresh.sd:    106916.4844 
+max_spots:    200000 
+ROIsize:    2 
+method:    could not read value 
+fit:    could not read value 
+maxcount:    100 
+data_fname:     
+data_stackname:    could not read value 
+data_dirname:    could not read value 
+save_dirname:    could not read value 
+numdim:    3 
+filter.nlo:    2.15 
+filter.nhi:    1 
+type:    could not read value 
+set_psf_manually:    1 
+set_thresh_manually:    1 
+bg_mode:    could not read value 
+mode:    could not read value 
+AIRLOCALIZE_version:    1 
+curfname:    could not read value 
+select_ROI:    0 
+output_spot_image:    1 
+dense_spots:    0 
+nx:    512 
+ny:    512 
+nz:    17 

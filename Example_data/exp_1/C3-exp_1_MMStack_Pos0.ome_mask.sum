@@ -1,0 +1,8 @@
+Detection file: /Users/maxhaase/Desktop/Grad_School/Rotation_lionnet/SRF/20180112_FISH/SRF/20180112_SRF/0min_75K/exp_1/C3-exp_1_MMStack_Pos0.ome.loc3
+Mask File: /Users/maxhaase/Desktop/Grad_School/Rotation_lionnet/SRF/20180112_FISH/SRF/20180112_SRF/0min_75K/exp_1/exp_1_MMStack_Pos0.ome_MASK.tif
+
+Mode: discard background spots
+
+Total Number of Spots in Image: 2
+ROI value: 0; 0 spots detected; ROI volume: 242179 voxels
+ROI value: 255; 1 spots detected; ROI volume: 19965 voxels
